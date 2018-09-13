@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="descripcion">Joyería Karla es una empresa mexicana dedicada a la venta de joyería fina y relojes de prestigio, siempre estando a la vanguardia y cumpliendo con las necesidades de nuestros clientes.\n\n Nos hemos caracterizado por ofrecer joyería con diseños exclusivos de la más alta calidad sin olvidar la gran variedad de relojes de prestigio. Es por esto que entre nuestros clientes Joyería Karla es un sinónimo de calidad y confianza."</string>
+    <string name="contacto">De lunes a viernes\n
+            08:00 - 20:00 hrs\n
+            477 396 21 37\n
+            Email: joyeria@hotmail.com</string>
+</resources>
